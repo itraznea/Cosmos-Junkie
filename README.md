@@ -1,2 +1,2 @@
 # Mobile-First-Responsive-CSS-Grid-Build
-This project was created while I was taking the Net Ninja course.
+This project was created during a Net Ninja course.
